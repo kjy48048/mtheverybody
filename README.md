@@ -7,6 +7,6 @@ STS 3.9.6.RELEASE /
 Apache-Tomcat version 8 /
 Oracle 11g Express
 
-2.Project Purpose
+2.Project Purpose(프로젝트 목적)
 
 Stock Products Finding Service for Single Households(1인 가구를 위한 편의점 재고 상품 찾기 서비스)
