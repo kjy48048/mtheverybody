@@ -9,4 +9,4 @@ Oracle 11g Express
 
 2.Project Purpose(프로젝트 목적)
 
-Stock Products Finding Service for Single Households(자취생들을 위한 편의점 재고 상품 찾기 서비스)
+Stock Products Finding Service for Single Households(자취생들을 위한 편의점 떨이 찾기 서비스)
