@@ -12,7 +12,7 @@
 		<!-- 자바 버전 1.8로 변경 -->
 		<java-version>1.8</java-version>
 		<!-- 스프링 버전 5.0.7로 변경 -->
-		<org.springframework-version>5.1.2.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.3.RELEASE</org.springframework-version>
 		<!-- 버전 1.9.0로 변경 -->
 		<org.aspectj-version>1.9.0</org.aspectj-version>
 		<!-- 버전 1.7.25로 변경 -->
